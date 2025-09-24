@@ -1163,4 +1163,10 @@
 			"nation_research_production_per_cunning": 0.5
 		}
 	}
+	},
+	"the_dune_scholar": {
+		"display_name": "The Dune Scholar",
+		"tier": 3,
+		"type": "unique",
+		"modifiers": {}
 }
